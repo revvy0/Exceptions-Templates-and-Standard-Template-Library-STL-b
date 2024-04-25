@@ -28,5 +28,6 @@ cout << half(a) << endl;
 cout << half(b) << endl;
 cout << half(c) << endl;
 // mimic code from example to see if it works as it should
+  // works
   return 0;
 }
