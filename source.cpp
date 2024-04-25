@@ -6,7 +6,7 @@
 using namespace std;
 
 // function for float point types
-template<typeName T>
+template<typename T>
 T half(T value) {
   // insert code for returning value
   return value / static_cast<T>(2);
